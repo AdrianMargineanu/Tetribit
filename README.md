@@ -1,5 +1,5 @@
 # Tetribit
-___________
+
 ### General Idea
 This is a basic tetris game played on bits. The map o the game is represented by a number that is saved on 64 bits. In this way we have a 8x8 map,where 0 it is '.' and 1 is '#'. The pieces are numbers, too, but on 32 bits. 
 
